@@ -1,4 +1,4 @@
-#Carpeta Test# 
+# Carpeta Test # 
 
 En esta carpeta debemos incluir archivos .sql que permitan probar los desarrollos realizados.
 
